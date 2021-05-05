@@ -1,0 +1,22 @@
+* {
+    /* color: #1e90ff; */
+    background-color: #FAF3DD;
+    font-family: cursive, fantasy, serif;
+    margin: 0px;
+}
+
+
+.header{
+    background-color: #FAF3DD;
+    display: flex;
+    justify-content: space-between;
+    padding:25px
+}
+
+.images {
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
